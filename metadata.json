@@ -1,0 +1,8 @@
+{
+  "name": "BrandRix - Final",
+  "description": "An autonomous marketing agency system that audits brands, formulates strategies, and generates high-converting ads using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
